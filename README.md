@@ -8,5 +8,5 @@ Heyo, I'm Filippo Lollato and I'm currently studying CS at [UNITN](https://www.u
 
 - ![Static Badge](https://img.shields.io/badge/PyTorch-black?style=plastic&logo=pytorch&logoColor=red&labelColor=gray&color=blue)
 / ![Static Badge](https://img.shields.io/badge/Tensorflow-black?style=plastic&logo=tensorflow&logoColor=orange&labelColor=blue&color=gray)
-: Currently learning and experimenting with reinforcement learning with tools like PyTorch and TensorFlow.
+: Currently learning and experimenting with DQN and tools like PyTorch and TensorFlow.
 
