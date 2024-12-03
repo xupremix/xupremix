@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQH-7RvmQyJrpA/profile-displayphoto-shrink_800_800/0/1667947571447?e=1714608000&v=beta&t=h8Kz6iDykmG-QflTnFHUTW8xcU9QAI2thFz3HAmxUHk"  />
-</div>
-
-###
 
 <h1 align="center">👇 Hello, wecome to my profile 👇</h1>
 
